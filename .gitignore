@@ -1,0 +1,14 @@
+# IntelliJ Idea
+**/*.iml
+**/.idea
+
+# Dependency Directories
+node_modules
+
+# Bower
+src/vendor
+
+# Gulp
+build/
+dist/
+.yo-rc.json
